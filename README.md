@@ -14,6 +14,8 @@
 
 ## Sumar
 
+![hotar mirsid 2025 08 04 v1](./imagini/hotar_mirsid_2025-08-04_v1.png)
+
 | Zona       | Parcela   | Suprafata          | Titlu   | Intabulare  | Comentarii |
 |:-----------|:----------|:------------------ |:--------|:------------|:------------|
 | Glimeie    |         1 |  5800mp (1 Juger)  |    DA   |     nu      | ⚠️ in faza de intabulare, neclaritati delimitare |
